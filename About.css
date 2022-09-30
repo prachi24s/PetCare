@@ -1,0 +1,10 @@
+.about_class{
+    text-align: center;
+    padding: 10px;
+    margin-top: 5%;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
